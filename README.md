@@ -1,5 +1,4 @@
 ### Hi there 👋
-🔭 Currently working on [anonyshare](https://github.com/Fendrick25/anonyshare)
 
 <!--
 **Fendrick25/Fendrick25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
